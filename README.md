@@ -4,7 +4,7 @@ Geospatial ecology and environmental intelligence visualizations.
 
 ## Maps
 
-- [Colima NDVI Change Map](reports/colima_ndvi_change_map.html) - Vegetation index change analysis for Colima region
+- [Colima NDVI Change Map](colima_ndvi_change_map.html) - Vegetation index change analysis for Colima region
 
 ## GitHub Pages
 
